@@ -1,0 +1,3 @@
+[submodule "httpd-apache"]
+	path = httpd-apache
+	url = https://github.com/adeel14553/httpd-apache
